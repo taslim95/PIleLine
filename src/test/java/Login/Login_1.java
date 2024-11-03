@@ -6,7 +6,7 @@ public class Login_1 {
 
 	@Test(groups = "smoke")
 	public void test01() {
-		System.out.println("login -> Smoke testing");
+		System.out.println("login -> Smoke testing");System.out.println("update somthing");
 	}
 
 	@Test(groups = "regression")
